@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "cssTheme": "Atom",
+  "theme": "moonstone"
+}

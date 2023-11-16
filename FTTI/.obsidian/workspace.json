@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "fbe1a74b9103dc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b667288b2841b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0fefcf3d20b229d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Непрерывноcть функции в точке и точке разрыва.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78ac1776cb031c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Производная функции в точке.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c961c83b3c0239ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Производная функции в точке.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecfd5cdeb9440f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Дифференциал.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "765cdf3f014e15b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Производные и дифференциалы высших порядков.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d38611a164ee1ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Правило Лапиталя.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4ec59a393335b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Некоторые теоремы о дифференцируемых функциях.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d536c37cdceb6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Дифференцирование функций.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee7b93bc3d44ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Мат. анализ/Дифференциал.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ea9eb206d7e41dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "869257fb5be9033a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f2df4b222e70107",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdcbf3db4e4bebef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d59efe22d715f1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "8d93b9db1aa5e657",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b5ebd22223853fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "right": {
+    "id": "e3e2116762431b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a4ff00bafa1e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e96c0f07bcf58e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Математика/Мат. анализ/Некоторые теоремы о дифференцируемых функциях.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d06bec7f2196792a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Математика/Мат. анализ/Некоторые теоремы о дифференцируемых функциях.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06a3b8ab7b6711b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "638099b6f80675ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Математика/Мат. анализ/Некоторые теоремы о дифференцируемых функциях.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1d59efe22d715f1f",
+  "lastOpenFiles": [
+    "Математика/Мат. анализ/Правило Лапиталя.md",
+    "Математика/Мат. анализ/Некоторые теоремы о дифференцируемых функциях.md",
+    "Математика/Мат. анализ/Производные и дифференциалы высших порядков.md",
+    "Математика/Мат. анализ/Дифференциал.md",
+    "Прочие материалы/Картинки/Pasted image 20231017181227.png",
+    "Математика/Мат. анализ/Дифференцирование функций.md",
+    "Математика/Мат. анализ/Производная функции в точке.md",
+    "Математика/Мат. анализ/Свойства функции непрерывности на отрезке.md",
+    "Untitled.md",
+    "Математика/Мат. анализ/Функция.md",
+    "Математика/Мат. анализ/Эквивалентные бмф и их свойства.md",
+    "Математика/Мат. анализ/Односторонние пределы.md",
+    "Математика/Мат. анализ/Правила дифференциирования.md",
+    "Математика/Мат. анализ/Непрерывноcть функции в точке и точке разрыва.md",
+    "Математика/Мат. анализ/Классификация точек разрыва.md",
+    "Прочие материалы/Картинки/Pasted image 20231012164742.png",
+    "Прочие материалы/Видео",
+    "Прочие материалы/Картинки",
+    "Прочие материалы",
+    "Математика/Мат. анализ/Замечательные пределы.md",
+    "Математика/Мат. анализ/Неопределённости.md",
+    "Математика/Мат. анализ/Связь ббф и бмф.md",
+    "Математика/Мат. анализ/Теоремы о пределах.md",
+    "Математика/Мат. анализ/Бесконечно большая функция и её свойства.md",
+    "Математика/Мат. анализ/Бесконечно малые функции.md",
+    "Бесконечно малые",
+    "Математика/Мат. анализ/Drawing 2023-10-04 23.26.52.excalidraw.md",
+    "Математика/Линейная алгебра",
+    "Untitled.canvas",
+    "Математика",
+    "Математика/Мат. анализ"
+  ]
+}
