@@ -11,8 +11,36 @@
             "id": "87486e0daa253637",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FTTI/История/История Японии(1185 - 1612).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58d0da503bcd844c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93e894571fb98c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3798e0f0761cb039",
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FTTI/История/История Японии(1185 - 1612).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FTTI/История/История Японии(1185 - 1612).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FTTI/История/История Японии(1185 - 1612).md"
+              }
             }
           }
         ]
@@ -139,5 +172,12 @@
     }
   },
   "active": "87486e0daa253637",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "FTTI/Математика/Мат. анализ/Бесконечно большая функция и её свойства.md",
+    "FTTI/История/История Японии(1185 - 1612).md",
+    "FTTI/Математика/Мат. анализ/Дифференцирование функций.md",
+    "README.md",
+    "Untitled.md",
+    "FTTI/История"
+  ]
 }
